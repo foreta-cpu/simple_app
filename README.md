@@ -1,1 +1,1 @@
-# Проект от foreta-cpu
+# Проект от AI-EDUCATION
